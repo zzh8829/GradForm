@@ -79,7 +79,7 @@
 	<div id="bg-img"></div>
 	<script src="js/index.js"></script>
 
-	<div style="position:absolute;bottom:0px;right:0px;"><a style="text-decoration:none;color:#000;font-family:Verdana;" href="http://zihao.ca">Z</a></div>
+	<div style="position:absolute;bottom:0px;right:0px;"><a style="text-decoration:none;color:#000;font-family:Verdana;" href="http://zihao.me">Z</a></div>
 
 </body>
 </html>
