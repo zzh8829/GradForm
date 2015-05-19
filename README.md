@@ -8,4 +8,3 @@ Deployment
 * Put your MySQL informations in finish.php.
 * ...???
 * Profit
-* 
