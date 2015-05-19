@@ -8,7 +8,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("http://static.zihao.ca/images/snowflakes.jpg");
+    background-image: url("../img/snowflakes.jpg");
     opacity: 0.6;
     z-index: -1;
 }
