@@ -1,6 +1,10 @@
 # GradForm
 School Graduation Form
 
+Demo
+----
+http://zihao.ca/GradForm
+
 Deployment 
 ----------
 * Install PHP and MySQL.
